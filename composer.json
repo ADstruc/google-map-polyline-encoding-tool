@@ -1,5 +1,5 @@
 {
-    "name": "emcconville/google-map-polyline-encoding-tool",
+    "name": "adstruc/google-map-polyline-encoding-tool",
     "type": "library",
     "description": "A simple class to handle polyline-encoding for Google Maps",
     "keywords": ["google", "maps"],
